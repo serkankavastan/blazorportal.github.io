@@ -12,7 +12,7 @@
           "merhaba",
           "türkiye"
       ],
-      "Content": "<img style='width:100%;' src='https://github.com/serkankavastan/blazorportal.github.io/raw/master/_posts/Images/newblazorapp.jpg' /><br />Blazor portalın ilk yazısı ile açılışı yapıyorum. Bundan sonra blazor alanında yazılarımı ve örnek projelerimi sürekli sizlerle paylaşıyor olacağım. Haydi hayırlı olsun..",
+      "Content": "<img style='width:100%;max-width:786px;' src='https://github.com/serkankavastan/blazorportal.github.io/raw/master/_posts/Images/newblazorapp.jpg' /><br />Blazor portalın ilk yazısı ile açılışı yapıyorum. Bundan sonra blazor alanında yazılarımı ve örnek projelerimi sürekli sizlerle paylaşıyor olacağım. Haydi hayırlı olsun..",
       "File": "https://raw.githubusercontent.com/serkankavastan/blazorportal.github.io/master/_posts/first.json"
     }
   ]
